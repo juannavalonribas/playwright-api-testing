@@ -31,7 +31,7 @@ nvm use
 npm install
 ```
 
-3. Run component tests
+3. Run api tests
 
 ```bash
 npm run test-api
