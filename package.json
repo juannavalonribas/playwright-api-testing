@@ -1,0 +1,16 @@
+{
+  "name": "playwright-at",
+  "version": "0.0.1",
+  "description": "Simple showcase of api testing using playwright",
+  "scripts": {
+    "test-api": "playwright test"
+  },
+  "author": "Juan Navalon Ribas",
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30",
+    "prettier": "^3.2.5",
+    "dotenv": "^16.4.5"
+  }
+}
